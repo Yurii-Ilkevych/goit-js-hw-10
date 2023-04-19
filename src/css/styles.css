@@ -18,3 +18,35 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
+
+.list-item{
+  display: flex;
+  column-gap: 10px;
+  margin-bottom: 10px;
+  align-items: center;
+  list-style: none;
+}
+
+.flat-text{
+  margin-right: 5px;
+  font-size: larger;
+  font-weight: bold;
+}
+
+.tittle-item{
+  display: flex;
+  align-items: center;
+  column-gap: 10px;
+}
+
+.first-text{
+  font-size: xx-large;
+  font-weight: bolder;
+
+  margin: 0;
+}
+
+.second-text{
+  font-size: x-large;
+}
